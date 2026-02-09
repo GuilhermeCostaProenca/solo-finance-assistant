@@ -1,6 +1,6 @@
-# ContaCerta Autonomo
+﻿# ContaCerta Autonomo
 
-[![CI](https://github.com/GuilhermeCostaProenca/contacerta-autonomo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GuilhermeCostaProenca/contacerta-autonomo/actions/workflows/ci.yml)
+[![CI](https://github.com/GuilhermeCostaProenca/solo-finance-assistant/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GuilhermeCostaProenca/solo-finance-assistant/actions/workflows/ci.yml)
 
 Digital product repository focused on a real market pain with portfolio-grade execution.
 
@@ -38,3 +38,4 @@ Next.js, NestJS, PostgreSQL, integracao com emissao de notas
 
 ## Main risks
 Confiabilidade de calculos e adequacao regulatoria
+
