@@ -1,37 +1,37 @@
-# PRD - ContaCerta Aut?nomo
+# PRD - ContaCerta Autonomo
 
-## Vis?o
+## Vision
 Assistente financeiro para MEIs e freelancers.
 
-## Problema
-Desorganiza??o financeira por mistura de contas pessoais/profissionais e baixa previsibilidade de impostos.
+## Problem
+Desorganizacao financeira por mistura de contas pessoais/profissionais e baixa previsibilidade de impostos.
 
-## P?blico-alvo
+## Target audience
 MEIs, freelancers e pequenos comerciantes
 
 ## Jobs to be done
-1. Executar tarefas centrais sem fric??o operacional.
-2. Reduzir retrabalho e risco de erro em processos cr?ticos.
-3. Tomar decis?o com base em informa??o consolidada.
+1. Execute core tasks without operational friction.
+2. Reduce rework and critical process errors.
+3. Improve decisions with consolidated information.
 
-## Escopo MVP
-- Registro de entradas e sa?das com categorias simples
-- Separa??o autom?tica de reserva para impostos
-- Lembretes de vencimentos e obriga??es
-- Relat?rios de fluxo de caixa em linguagem simples
+## MVP scope
+- Registro de entradas e saidas com categorias simples
+- Separacao automatica de reserva para impostos
+- Lembretes de vencimentos e obrigacoes
+- Relatorios de fluxo de caixa em linguagem simples
 
-## Fora de escopo (v1)
-- Personaliza??es profundas por cliente.
-- Marketplace de integra??es avan?adas.
-- Recursos enterprise avan?ados (SSO/SOC2) sem tra??o inicial.
+## Out of scope (v1)
+- Deep enterprise customizations.
+- Advanced marketplace integrations.
+- Heavy enterprise compliance before traction.
 
-## M?tricas de sucesso
-- Ativa??o: usu?rio completa fluxo principal em at? 10 minutos.
-- Reten??o inicial: uso recorrente na primeira semana.
-- Qualidade: redu??o de erros operacionais no fluxo alvo.
+## Success metrics
+- Activation: user completes first core flow quickly.
+- Early retention: repeated usage in first week.
+- Quality: measurable reduction in target errors.
 
-## Crit?rios de aceite do MVP
-1. Fluxo principal implementado ponta a ponta.
-2. Erros cr?ticos tratados com mensagens acion?veis.
-3. Setup documentado e reproduz?vel.
-4. CI executando lint/test/build conforme stack detectada.
+## MVP acceptance criteria
+1. Core flow implemented end-to-end.
+2. Critical errors handled with clear feedback.
+3. Setup documented and reproducible.
+4. CI running lint/test/build based on detected stack.
